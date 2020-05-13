@@ -1,0 +1,1 @@
+The firmware in this repo are collected from public github repos or private sources. Please refer to their original repo for license information, whose link can be found in [P<sup>2</sup>IM paper](https://www.usenix.org/conference/usenixsecurity20/presentation/feng).
