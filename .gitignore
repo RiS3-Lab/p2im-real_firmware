@@ -1,3 +1,4 @@
 *.hex
 *.elf
 build
+*.o
