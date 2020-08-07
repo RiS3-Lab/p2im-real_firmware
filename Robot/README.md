@@ -5,4 +5,4 @@ Open the IDE by clicking the "System Workbench for STM32" icon on your home scre
 
 Import the project for Robot firmware by `File -> Open projects from file system` and select this directory as the `import source`.
 
-Compile the firmware by `Project -> build all` and you will find the binary at `Debug/InvertedPendule.elf`. 
+Compile the firmware by `Project -> Build Project` and you will find the binary at `Debug/Robot.elf`. 
