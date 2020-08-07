@@ -21,4 +21,4 @@ All firmware invoke `aflCall`, as explained [here](https://github.com/RiS3-Lab/p
 
 
 ## TODO
-I am still cleaning `CNC` and `Soldering_Iron` firmware.
+I am still cleaning `Soldering_Iron` firmware.
