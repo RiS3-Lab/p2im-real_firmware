@@ -9,9 +9,9 @@ Please follow the instructions [here](https://github.com/RiS3-Lab/p2im#fuzzing).
 Setup the compiler toolchain following these [instructions](https://github.com/RiS3-Lab/p2im#gnu-arm-embedded-toolchain).
 
 For Arduino-based firmware, you need to set up the Arduino development environment:  
-1) Download the [Arduino core](https://drive.google.com/file/d/13FO7wVcyBzSKz19MirNG6V7RgrgGietP/view?usp=sharing), and untar it to ~/Arduino
+1) Download the [Arduino core](https://drive.google.com/file/d/13FO7wVcyBzSKz19MirNG6V7RgrgGietP/view?usp=sharing), and untar it to ~/.arduino15
 
-2) Download the [library](https://drive.google.com/file/d/1YTkcOAXTXF4obIdlH_Cd-sOcAt9OqwgO/view?usp=sharing) that firmware rely on, and untar it to ~/.arduino15
+2) Download the [library](https://drive.google.com/file/d/1YTkcOAXTXF4obIdlH_Cd-sOcAt9OqwgO/view?usp=sharing) that firmware rely on, and untar it to ~/Arduino
 
 Now you are ready to compile firmware. Please follow the instructions in `README.md` under each directory.
 
